@@ -1,4 +1,6 @@
-The main file to generate graphs is main_runtime.ipynb python notebook. Run the notebook from start to finish to generate the used graphs except all individual country graphs. The CSV sources are expected to be placed in the same folder as the notebook. If not then adjust the CSV directories.
+The main file to generate graphs is main_runtime.ipynb python notebook. Run the notebook from start to finish to generate the used graphs except all individual country graphs. 
+
+The CSV sources are expected to be placed in the same folder as the notebook. If not then adjust the CSV directories.
 All code made for Python 3.11.4
 
 main_runtime.ipynb dependencies:
